@@ -147,13 +147,14 @@ Open a serial terminal at **115200 baud** after flashing. Example output:
 ```
 KDA Inference ready.
 Enter PIN: BTN0 -> BTN1 -> BTN2 -> BTN3
-
-Scores: U3=97%  U4=2%  U5=0%  U6=0%
+Scores: U3=99% U4=0% U5=0% U6=1%
 IDENTIFIED as User3
-
-Scores: U3=1%  U4=98%  U5=0%  U6=0%
+Scores: U3=0% U4=93% U5=1% U6=6%
 IDENTIFIED as User4
-
+Scores: U3=0% U4=0% U5=100% U6=0%
+IDENTIFIED as User5
+Scores: U3=0% U4=0% U5=0% U6=100%
+IDENTIFIED as User6
 Scores: U3=12%  U4=11%  U5=38%  U6=39%
 UNKNOWN USER - rejected
 ```
