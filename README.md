@@ -73,13 +73,17 @@ keystroke_dynamic-repo/
 
 The PIN sequence is always **BTN0 → BTN1 → BTN2 → BTN3**. Press and release each button fully before pressing the next.
 
-user3: short duration 1 | short interval 1 | short duration 2 | short interval 2 | short duration 3 | short interval 3 | short duration 4
+user3: 
+short duration 1 | short interval 1 | short duration 2 | short interval 2 | short duration 3 | short interval 3 | short duration 4
 
-user4: long  duration 1 | short interval 1 | long duration  2 | short interval 2 | long  duration 3 | short interval 3 | long  duration 4
+user4: 
+long  duration 1 | short interval 1 | long duration  2 | short interval 2 | long  duration 3 | short interval 3 | long  duration 4
 
-user5: short duration 1 | long  interval 1 | short duration 2 | long  interval 2 | short duration 3 | long  interval 3 | short duration 4
+user5: 
+short duration 1 | long  interval 1 | short duration 2 | long  interval 2 | short duration 3 | long  interval 3 | short duration 4
 
-user6: short duration 1 | short interval 1 | long  duration 2 | long  interval 2 | long  duration 3 | long  interval 3 | short duration 4
+user6: 
+short duration 1 | short interval 1 | long  duration 2 | long  interval 2 | long  duration 3 | long  interval 3 | short duration 4
 
 Each user's typing patten follows the table above.
 
