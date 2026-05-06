@@ -78,6 +78,7 @@ user 4 : long  duration 1 | short interval 1 | long duration  2 | short interval
 user 5 : short duration 1 | long  interval 1 | short duration 2 | long  interval 2 | short duration 3 | long  interval 3 | short duration 4
 user 6 : short duration 1 | short interval 1 | long  duration 2 | long  interval 2 | long  duration 3 | long  interval 3 | short duration 4
 Each user's typing patten follows the table above.
+
 ---
 
 ## How to build and flash
