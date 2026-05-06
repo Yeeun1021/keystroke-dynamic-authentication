@@ -1,0 +1,13 @@
+# Target labels
+ inference
+# Source files and their labels
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/CMakeFiles/inference
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/CMakeFiles/inference.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/CMakeFiles/inference-complete.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-build.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-configure.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-download.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-install.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-mkdir.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-patch.rule
+C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-update.rule

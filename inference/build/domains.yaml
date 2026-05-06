@@ -1,0 +1,7 @@
+default: inference
+build_dir: C:/ncs/kda/keystroke_dynamic/inference/build
+domains:
+  - name: inference
+    build_dir: C:/ncs/kda/keystroke_dynamic/inference/build/inference
+flash_order:
+  - inference

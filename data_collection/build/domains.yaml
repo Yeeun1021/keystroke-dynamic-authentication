@@ -1,0 +1,7 @@
+default: data_collection
+build_dir: C:/ncs/kda/keystroke_dynamic/data_collection/build
+domains:
+  - name: data_collection
+    build_dir: C:/ncs/kda/keystroke_dynamic/data_collection/build/data_collection
+flash_order:
+  - data_collection

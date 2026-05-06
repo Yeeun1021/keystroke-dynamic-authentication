@@ -1,0 +1,13 @@
+# Target labels
+ data_collection
+# Source files and their labels
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/CMakeFiles/data_collection
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/CMakeFiles/data_collection.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/CMakeFiles/data_collection-complete.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-build.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-configure.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-download.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-install.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-mkdir.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-patch.rule
+C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-update.rule

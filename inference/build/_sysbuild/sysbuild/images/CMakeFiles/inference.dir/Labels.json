@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/CMakeFiles/inference"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/CMakeFiles/inference.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/CMakeFiles/inference-complete.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-build.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-configure.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-download.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-install.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-mkdir.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-patch.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/inference/build/_sysbuild/sysbuild/images/inference-prefix/src/inference-stamp/inference-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"inference"
+		],
+		"name" : "inference"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/CMakeFiles/data_collection"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/CMakeFiles/data_collection.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/CMakeFiles/data_collection-complete.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-build.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-configure.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-download.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-install.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-mkdir.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-patch.rule"
+		},
+		{
+			"file" : "C:/ncs/kda/keystroke_dynamic/data_collection/build/_sysbuild/sysbuild/images/data_collection-prefix/src/data_collection-stamp/data_collection-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"data_collection"
+		],
+		"name" : "data_collection"
+	}
+}
